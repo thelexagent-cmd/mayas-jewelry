@@ -34,7 +34,7 @@ export const COLLECTIONS = [
     title: "Heritage Gold",
     subtitle: "Timeless Elegance",
     description: "Hand-selected 18k and 24k gold pieces celebrating four decades of curatorial excellence.",
-    image: "https://images.unsplash.com/photo-1515562141589-67f0d569b6f5?w=800&h=1000&fit=crop&q=80",
+    image: "https://images.unsplash.com/photo-1543294001-f7cd5d7fb516?w=800&h=1000&fit=crop&q=80",
     itemCount: 42,
   },
   {
@@ -80,7 +80,7 @@ export const SIGNATURE_PRODUCTS = [
     price: "$6,200",
     description: "A radiant sun-inspired pendant featuring a 1.5ct center stone surrounded by a halo of pavé diamonds.",
     details: ["1.5ct Center Diamond", "VS1 Clarity", "18K White Gold", "Certificate Included"],
-    image: "https://images.unsplash.com/photo-1599459183200-59c3fd3dc15f?w=900&h=1100&fit=crop&q=80",
+    image: "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=900&h=1100&fit=crop&q=80",
   },
   {
     id: 3,
@@ -203,7 +203,7 @@ export const GALLERY_IMAGES = [
     aspect: "tall",
   },
   {
-    src: "https://images.unsplash.com/photo-1515562141589-67f0d569b6f5?w=600&h=400&fit=crop&q=80",
+    src: "https://images.unsplash.com/photo-1543294001-f7cd5d7fb516?w=600&h=400&fit=crop&q=80",
     alt: "Gold chains",
     aspect: "wide",
   },
